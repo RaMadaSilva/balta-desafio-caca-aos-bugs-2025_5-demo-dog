@@ -18,10 +18,10 @@ Neste processo eu aprendi:
 
 ## REGRAS DO DESAFIO
 
-- [ ] Realizar um fork do repositório do desafio
-- [ ] Criar um Workflow para branch main
-- [ ] Executar o build do projeto no Workflow
-- [ ] Executar o teste (Unit Test) do projeto no Workflow
+- ✅ Realizar um fork do repositório do desafio
+- ✅ Criar um Workflow para branch main
+- ✅ Executar o build do projeto no Workflow
+- ✅ Executar o teste (Unit Test) do projeto no Workflow
 
 ## Sobre o Caça aos Bugs
 
