@@ -32,7 +32,7 @@ jobs:
         working-directory: ./src
 
       - name: Publish
-        run: dotnet publish --no-build -c Release -o ./publish
+        run: dotnet publish -c Release -o ./publish
         working-directory: ./src/BugStore.Api
 
       - name: Upload build artifacts
